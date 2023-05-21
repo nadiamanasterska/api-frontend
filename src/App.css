@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 60px;
+  gap: 40px;
+}
+
+.student-container {
+  border: dotted black 2px;
+  border-radius: 4px;
+  width: 400px;
+  padding: 13px 30px;
+}
